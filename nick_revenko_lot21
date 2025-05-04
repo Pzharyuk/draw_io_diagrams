@@ -235,14 +235,14 @@
         <mxCell id="7xJoe9rDRAz5zB0H5RAg-110" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Wire to main panel on lower level&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="1010" width="105" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7xJoe9rDRAz5zB0H5RAg-112" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,transparent);strokeColor=light-dark(#000000,#FF0000);strokeWidth=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1030" width="470" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="7xJoe9rDRAz5zB0H5RAg-113" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#FF0000);strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="7xJoe9rDRAz5zB0H5RAg-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="245" y="1035" as="sourcePoint" />
             <mxPoint x="429" y="452" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7xJoe9rDRAz5zB0H5RAg-112" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,transparent);strokeColor=light-dark(#000000,#FF0000);strokeWidth=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="1030" width="470" height="470" as="geometry" />
         </mxCell>
         <mxCell id="7xJoe9rDRAz5zB0H5RAg-114" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Pull one more cat5 for a secondary doorbell chime&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1175" width="115" height="55" as="geometry" />
