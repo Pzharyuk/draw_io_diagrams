@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="yYHAfA2_dpQKTBsxWL0d">
-    <mxGraphModel dx="834" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,29 +10,29 @@
         <mxCell id="cs184NcixAmj_EHTdY6G-4" value="Walking Area" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#999999);" vertex="1" parent="1">
           <mxGeometry x="560" y="90" width="240" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-5" value="spkr" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-5" value="spkr&lt;div&gt;&lt;span style=&quot;font-family: cf-gibson, Helvetica, Arial, sans-serif; font-size: 7px; orphans: 2; text-align: left; widows: 2; background-color: rgb(18, 18, 18);&quot;&gt;&amp;nbsp;7-1/4&quot;W x 19-3/16&quot;H&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="575" y="155" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-6" value="spkr" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-6" value="spkr&lt;div&gt;&lt;span style=&quot;font-family: cf-gibson, Helvetica, Arial, sans-serif; font-variant-ligatures: normal; orphans: 2; text-align: left; widows: 2; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: light-dark(rgb(41, 40, 40), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp;7-1/4&quot;W x 19-3/16&quot;H&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="575" y="420" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-7" value="spark" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-7" value="spark&lt;div&gt;6&quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="150" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-8" value="spkr" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-8" value="spkr&lt;div&gt;6&quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="398" y="150" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-9" value="spkr" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-9" value="spkr&lt;div&gt;6&quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="400" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-10" value="spkr" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-10" value="spkr&lt;div&gt;6&quot;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="398" y="400" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cs184NcixAmj_EHTdY6G-11" value="In wall sub" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="700" y="155" width="90" height="60" as="geometry" />
+          <mxGeometry x="685" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cs184NcixAmj_EHTdY6G-13" value="Optional in wall &amp;nbsp;secondary sub" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="700" y="420" width="90" height="60" as="geometry" />
+          <mxGeometry x="680" y="400" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cs184NcixAmj_EHTdY6G-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="cs184NcixAmj_EHTdY6G-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,7 +111,7 @@
         <mxCell id="cs184NcixAmj_EHTdY6G-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cs184NcixAmj_EHTdY6G-21" target="cs184NcixAmj_EHTdY6G-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-21" value="Sub Amp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cs184NcixAmj_EHTdY6G-21" value="500W Sub Amp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="630" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cs184NcixAmj_EHTdY6G-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.66;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cs184NcixAmj_EHTdY6G-19" target="cs184NcixAmj_EHTdY6G-3">
@@ -139,7 +139,7 @@
         <mxCell id="cs184NcixAmj_EHTdY6G-44" value="Basement aggregate switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="854" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cs184NcixAmj_EHTdY6G-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.475;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cs184NcixAmj_EHTdY6G-44" target="cs184NcixAmj_EHTdY6G-39">
+        <mxCell id="cs184NcixAmj_EHTdY6G-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.475;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="cs184NcixAmj_EHTdY6G-44" target="cs184NcixAmj_EHTdY6G-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
